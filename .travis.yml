@@ -2,8 +2,9 @@ sudo: false
 language: node_js
 
 node_js:
-  - 14
-  - 15
+  - 6
+  - 8
+  - 10
 
 arch:
   - amd64
